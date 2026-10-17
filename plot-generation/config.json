@@ -1,0 +1,11 @@
+{
+  "name": "ballet_3",
+  "model": "2PM",
+  "m1": 75e-2,
+  "m2": 1.0,
+  "SMA_bin": 500,
+  "alpha": 0.4,
+  "years": 8.65,
+  "res": 1000000,
+  "DL": true
+}
